@@ -4,9 +4,7 @@
 
 ##### _Mathematics_
 - ✅ How to Prove It: A Structured Approach (D. J. Velleman)
-- ⭐️ Mathematical Analysis I (V. A. Zorich)
-- A Course in Algebra (E. B. Vinberg)
-- Mathematical Analysis II (V. A. Zorich)
+- ⭐️ Analysis I (H. Amann, J. Escher)
 
 ##### _Programming_
 - ✅ Clean Code (R. C. Martin)
