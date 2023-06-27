@@ -4,7 +4,8 @@
 
 ##### _Mathematics_
 - ✅ How to Prove It: A Structured Approach (D. J. Velleman)
-- ⭐️ Analysis I (V. A. Zorich)
+- ⭐️ Introduction to Set Theory (K. Hrbacek, T. Jech)
+- Analysis I (V. A. Zorich)
 
 ##### _Programming_
 - ✅ Clean Code (R. C. Martin)
