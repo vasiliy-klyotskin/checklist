@@ -6,6 +6,8 @@
 - ✅ How to Prove It: A Structured Approach (D. J. Velleman)
 - ⭐️ Introduction to Set Theory (K. Hrbacek, T. Jech)
 - Analysis I (V. A. Zorich)
+- A Cource in Algebra (E. B. Vinberg)
+- Analysis II (V. A. Zorich)
 
 ##### _Programming_
 - ✅ Clean Code (R. C. Martin)
